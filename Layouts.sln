@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Layouts.StackLayout", "Layouts.StackLayout\Layouts.StackLayout.csproj", "{DD8D33F2-BAAC-4F41-AF02-66E8544655BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Layouts.Grid", "Layouts.Grid\Layouts.Grid.csproj", "{5DA650C9-9C78-452A-95E8-CACAF18DBA65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{DD8D33F2-BAAC-4F41-AF02-66E8544655BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD8D33F2-BAAC-4F41-AF02-66E8544655BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD8D33F2-BAAC-4F41-AF02-66E8544655BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DA650C9-9C78-452A-95E8-CACAF18DBA65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DA650C9-9C78-452A-95E8-CACAF18DBA65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DA650C9-9C78-452A-95E8-CACAF18DBA65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DA650C9-9C78-452A-95E8-CACAF18DBA65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
